@@ -1,0 +1,14 @@
+# Environnement
+.env
+.env.*
+env.swp
+
+# Node / logs (si applicable)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+data
